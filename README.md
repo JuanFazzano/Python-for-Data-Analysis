@@ -35,4 +35,4 @@ I am going to upload my progress and activities from Wes McKinney's Python for D
 
 ## Chapter A: Advanced Numpy
 
-**Chapter B: More on the IPython System**
+## Chapter B: More on the IPython System
