@@ -12,7 +12,11 @@ I am going to upload my progress and activities from Wes McKinney's Python for D
  ``basic_1.py``
  ``basic_2.py``
  ``basic_3.py``
-    
+ ``basic_indexing.py``
+ ``basic_indexing_with_slices.py``
+ ``boolean_indexing.py`` 
+ ``fancy_index.py``
+ 
 ## Chapter 5: Getting Stared with pandas
 
 ## Chapter 6: Data Loading, Storage, and File Formats
