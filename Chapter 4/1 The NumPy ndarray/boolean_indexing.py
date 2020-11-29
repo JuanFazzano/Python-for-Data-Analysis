@@ -1,4 +1,5 @@
 import numpy as np
+# 101
 '''
 if items are below 0, save 0 in that position
 '''
