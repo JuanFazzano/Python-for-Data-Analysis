@@ -1,5 +1,5 @@
 import numpy as np
-
+# 102
 '''Indexing using integer arrays'''
 
 arr = np.array([
