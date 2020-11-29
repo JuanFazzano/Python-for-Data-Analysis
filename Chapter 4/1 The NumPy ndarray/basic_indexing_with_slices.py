@@ -7,7 +7,7 @@ import numpy as np
 '''
 
 lado = 3
-arr = np.zeros([lado, lado ]) #([largo, ancho])
+arr = np.zeros([lado, lado ]) #([length, width])
 print(arr,'\n')
 
 '''
