@@ -9,7 +9,9 @@ I am going to upload my progress and activities from Wes McKinney's Python for D
 **Chapter 3: Built-in Data Structures, Functions, and Files**
 
 **Chapter 4: NumPy Basic: Arrays and Vectorized Computation**
-
+    ``basic_1.py``
+    ``basic_2.py``
+    ``basic_3.py``
 **Chapter 5: Getting Stared with pandas**
 
 **Chapter 6: Data Loading, Storage, and File Formats**
